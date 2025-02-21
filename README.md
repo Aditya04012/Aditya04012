@@ -48,6 +48,8 @@ public:
 
 
  <br/>
+
+ ![](https://leetcard.jacoblin.cool/adityabhatnagar?animation=false)
  
 ## 💻 Tech Stack :
 
